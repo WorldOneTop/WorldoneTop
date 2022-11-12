@@ -40,8 +40,8 @@
 <h3 >Stat</h3>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WorldOneTop&show_icons=true&theme=vue)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WorldOneTop&layout=compact&theme=vue)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwpdlf147)](https://solved.ac/dlwpdlf147)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WorldOneTop&layout=compact&theme=vue)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwpdlf147)](https://solved.ac/dlwpdlf147)
 
 <br>
   

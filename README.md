@@ -35,9 +35,11 @@
   
 <br>
 
+<h3> :notebook_with_decorative_cover: Projects :notebook_with_decorative_cover: </h3>
 
 
-<h3 >Stat</h3>
+
+<h3> :chart_with_upwards_trend: Stat :chart_with_upwards_trend:</h3>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WorldOneTop&show_icons=true&theme=vue)
   
@@ -51,7 +53,8 @@
   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
   <a href="mailto:dlwpdlf147@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=dlwpdlf147@naver.com"/></a>
   
-  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlwpdlf147&tag=android)](https://github.com/eungyeole/velog-readme-stats)
+
 <br>
 <br>
   

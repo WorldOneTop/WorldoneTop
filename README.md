@@ -151,8 +151,9 @@
   <a href="https://velog.io/@dlwpdlf147"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dlwpdlf147"/></a>
 <!--   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a> -->
   <a href="mailto:dlwpdlf147@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=dlwpdlf147@naver.com"/></a>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlwpdlf147&tag=android)](https://github.com/eungyeole/velog-readme-stats)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlwpdlf147&slug=코딩-컨벤션-강제하기-feat.-Ktlint-Detekt)](https://velog.io/@dlwpdlf147/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EA%B0%95%EC%A0%9C%ED%95%98%EA%B8%B0-feat.-Ktlint-Detekt)
 
 <br>
 <br>
